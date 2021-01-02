@@ -129,6 +129,7 @@ export default {
       svg.appendChild(shape);
     },
     genColor(colors) {
+      /* eslint-disable */
       const rand = this.generator.random();
       const idx = Math.floor(colors.length * this.generator.random());
       const color = colors.splice(idx, 1)[0];
