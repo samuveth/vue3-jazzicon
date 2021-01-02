@@ -2,16 +2,16 @@
 [![npm](https://img.shields.io/npm/v/vue-jazzicon.svg)](https://www.npmjs.com/package/vue-jazzicon)    [![travis](https://img.shields.io/travis/man15h/vue-jazzicon.svg)](https://www.npmjs.com/package/vue-jazzicon) [![npm](https://img.shields.io/npm/dw/vue-jazzicon.svg)](https://www.npmjs.com/package/vue-jazzicon) [![npm](https://img.shields.io/npm/l/vue-jazzicon.svg)](https://github.com/man15h/vue-jazzicon/blob/master/LICENSE)
 
 
-# vue-jazzicon
+# vue3-jazzicon
 
-A dead-simple Jazzicon component for Vue.
+A dead-simple Jazzicon component for Vue 3.
 
 > Say goodbye to boring blocky identicons that look like they came out of the 70s, and replace them with jazzy, colorful collages that more likely came out of the 80's
 
 ![Jazzicon](public/identicons.png)
 
 
-## [Demo](https://vue-jazzicon.netlify.com/)
+## [Demo](XXX)
 
 
 ## Install
@@ -21,7 +21,7 @@ A dead-simple Jazzicon component for Vue.
 Installing with npm is recommended and it works seamlessly with webpack.
 
 ```js
-npm install vue-jazzicon // yarn add vue-jazzicon
+npm install vue3-jazzicon // yarn add vue3-jazzicon
 ```
 
 ## Quick start
@@ -33,10 +33,9 @@ To use in your project, just import jazzicon and install into Vue.
 main.js
 
 ```js
-import Vue from 'vue';
 import Jazzicon from 'vue3-jazzicon/src/components';
 
-Vue.component('jazzicon', Jazzicon); // or Vue.component(Jazzicon.name, Jazzicon);
+app.component('jazzicon', Jazzicon);
 ```
 
 App.vue
@@ -55,7 +54,7 @@ App.vue
 </template>
 
 <script>
-  import Jazzicon from 'vue-jazzicon'
+  import Jazzicon from 'vue3-jazzicon/src/components'
 
   export default {
     components: {
