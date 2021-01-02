@@ -2,7 +2,6 @@
   "name": "vue3-jazzicon",
   "version": "0.1.0",
   "description": "Vue component for danfinlay/jazzicon",
-  "private": true,
   "author": "samuv.eth",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -55,5 +54,14 @@
     "metamask",
     "identicon"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuveth/vue3-jazzicon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/samuveth/vue3-jazzicon/issues"
+  },
+  "homepage": "https://github.com/samuveth/vue3-jazzicon#readme"
 }

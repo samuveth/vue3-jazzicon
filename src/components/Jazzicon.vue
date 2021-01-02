@@ -130,7 +130,6 @@ export default {
     },
     genColor(colors) {
       const rand = this.generator.random();
-      console.log(rand)
       const idx = Math.floor(colors.length * this.generator.random());
       const color = colors.splice(idx, 1)[0];
       return color;
