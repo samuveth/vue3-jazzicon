@@ -2,7 +2,7 @@
 [![npm](https://img.shields.io/npm/v/vue-jazzicon.svg)](https://www.npmjs.com/package/vue-jazzicon)    [![travis](https://img.shields.io/travis/man15h/vue-jazzicon.svg)](https://www.npmjs.com/package/vue-jazzicon) [![npm](https://img.shields.io/npm/dw/vue-jazzicon.svg)](https://www.npmjs.com/package/vue-jazzicon) [![npm](https://img.shields.io/npm/l/vue-jazzicon.svg)](https://github.com/man15h/vue-jazzicon/blob/master/LICENSE)
 
 
-# vue-jazzicon
+# vue3-jazzicon
 
 A dead-simple Jazzicon component for Vue.
 
@@ -34,7 +34,7 @@ main.js
 
 ```js
 import Vue from 'vue';
-import Jazzicon from 'vue-jazzicon';
+import Jazzicon from 'vue-jazzicon/src/components';
 
 Vue.component('jazzicon', Jazzicon); // or Vue.component(Jazzicon.name, Jazzicon);
 ```
