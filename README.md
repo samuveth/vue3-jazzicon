@@ -11,7 +11,7 @@ A dead-simple Jazzicon component for Vue 3.
 ![Jazzicon](public/identicons.png)
 
 
-## [Demo](XXX)
+## [Demo](https://pedantic-shannon-c0b649.netlify.app/)
 
 
 ## Install
