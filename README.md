@@ -34,7 +34,7 @@ main.js
 
 ```js
 import Vue from 'vue';
-import Jazzicon from 'vue-jazzicon';
+import Jazzicon from 'vue3-jazzicon/src/components';
 
 Vue.component('jazzicon', Jazzicon); // or Vue.component(Jazzicon.name, Jazzicon);
 ```
