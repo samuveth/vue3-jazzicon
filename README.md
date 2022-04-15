@@ -26,6 +26,14 @@ npm install vue3-jazzicon // yarn add vue3-jazzicon
 
 ## Quick start
 
+### Vite
+
+For vite add this to vite.config.ts
+
+```js
+include: ['color', 'mersenne-twister']
+```
+
 ### Global
 
 To use in your project, just import jazzicon and install into Vue.
@@ -63,6 +71,7 @@ App.vue
   }
 </script>
 ```
+
 
 ## Props
 
