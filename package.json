@@ -1,8 +1,8 @@
 {
   "name": "vue3-jazzicon",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Vue component for danfinlay/jazzicon",
-  "author": "samuv.eth",
+  "author": "samuveth",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
