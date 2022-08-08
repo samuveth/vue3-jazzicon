@@ -1,5 +1,5 @@
 
-[![npm](https://img.shields.io/npm/v/vue-jazzicon.svg)](https://www.npmjs.com/package/vue-jazzicon)    [![travis](https://img.shields.io/travis/man15h/vue-jazzicon.svg)](https://www.npmjs.com/package/vue-jazzicon) [![npm](https://img.shields.io/npm/dw/vue-jazzicon.svg)](https://www.npmjs.com/package/vue-jazzicon) [![npm](https://img.shields.io/npm/l/vue-jazzicon.svg)](https://github.com/man15h/vue-jazzicon/blob/master/LICENSE)
+[![npm](https://img.shields.io/npm/v/vue-jazzicon.svg)](https://www.npmjs.com/package/vue3-jazzicon)    [![travis](https://img.shields.io/travis/man15h/vue-jazzicon.svg)](https://www.npmjs.com/package/vue3-jazzicon) [![npm](https://img.shields.io/npm/dw/vue-jazzicon.svg)](https://www.npmjs.com/package/vue3-jazzicon) [![npm](https://img.shields.io/npm/l/vue-jazzicon.svg)](https://github.com/man15h/vue3-jazzicon/blob/master/LICENSE)
 
 
 # vue3-jazzicon
